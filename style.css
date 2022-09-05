@@ -1,0 +1,30 @@
+span{
+    color: red;
+}
+
+.container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+
+}
+
+table{
+    border:rgb(241, 234, 234) solid 1px;
+}
+
+.checked{
+    color: orange;
+}
+
+*{
+    margin: 0%;
+}
+
+tr{
+    margin: 5px;
+}
+
+
+
